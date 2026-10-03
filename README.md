@@ -79,13 +79,9 @@ Future versions can include:
 - Voice-based accessibility
 - Expanded financial scam patterns
 
-## Team
 
-Team: CyberSaathii
 
-Members:
-- Surabhi Tripathi
-- Daksh Srivastava
+
 
 ## Hackathon
 
